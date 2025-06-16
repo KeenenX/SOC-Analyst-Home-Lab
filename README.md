@@ -144,6 +144,4 @@ Building an **advanced SOC Analyst home lab** by deploying a honeypot in an Azur
 > [!NOTE]
 > The Virtual Machine (VM) will serve as your honeypot — a purposely exposed system designed to attract and log real-world cyberattacks. This will allow you to analyze attacker behavior and collect data for security research.
 
-![Image](https://github.com/user-attachments/assets/25351c35-c637-4cef-a701-a5654795871c)
-
 ![Image](https://github.com/user-attachments/assets/60809bf9-d88d-49f7-b6e3-356da923131d)
